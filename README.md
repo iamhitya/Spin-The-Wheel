@@ -1,4 +1,4 @@
-# Spin A Wheel
+# Spin The Wheel
 Built with [Phaser.js](https://phaser.io/)
 <p align="center">
 <img src="./images/wheel.svg" width="300">
