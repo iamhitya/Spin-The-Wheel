@@ -5,7 +5,7 @@ Built with [Phaser.js](https://phaser.io/)
 </p>
 
 ## Demo
-https://iamhitya.github.io/spin-the-wheel
+https://iamhitya.github.io/Spin-The-Wheel/
 
 ## Follow me at
 <a href="https://github.com/iamhitya/"><img alt="Github @iamhitya" src="https://img.shields.io/static/v1?logo=github&message=Github&color=black&style=flat-square&label=" /></a> <a href="https://twitter.com/iamhitya/"><img alt="Twitter @iamhitya" src="https://img.shields.io/static/v1?logo=twitter&message=Twitter&color=black&style=flat-square&label=" /></a> <a href="https://www.linkedin.com/in/iamhitya/"><img alt="LinkedIn @iamhitya" src="https://img.shields.io/static/v1?logo=linkedin&message=LinkedIn&color=black&style=flat-square&label=&link=https://twitter.com/iamhitya" /></a>
